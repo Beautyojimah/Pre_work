@@ -1,1 +1,1 @@
-using git and github
+Using git & github
